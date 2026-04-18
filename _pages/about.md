@@ -25,5 +25,6 @@ redirect_from:
 1. [cite_start]**Kwang Hyun Kim**, et al., "Self-driven propylene epoxidation on modified TS-1," ***Nature Communications***, 16 (1), 8636, (2025). [cite: 33]
 2. **Kwang Hyun Kim**, et al., "Direct production of propylene glycol from propylene using bifunctional Al-TS-1," ***Catalysis Today***, 464, (2025). [cite: 34]
 
+[Download Full CV (PDF)](/files/CV_KwangHyunKim.pdf){: .btn .btn--info}
 ---
 **"Bridging fundamental catalytic science with practical energy solutions."** [cite: 28]
