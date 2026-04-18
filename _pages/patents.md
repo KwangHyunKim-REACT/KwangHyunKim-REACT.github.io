@@ -11,3 +11,19 @@ author_profile: true
 "**A Method for Hydrolysis of Tripropylene Glycol Using Beta-Zeolite**"  
 *Korean Patent Application No. 10-2026-0068984*  
 Filed: April 16, 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
