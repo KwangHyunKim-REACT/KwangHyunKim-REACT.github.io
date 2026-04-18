@@ -1,31 +1,37 @@
 ---
-layout: archieve
+layout: single
+title: "Profile"
 permalink: /about/
-title: "Kwang Hyun Kim"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-# About Me
-I am a Ph.D. candidate at **UNIST**, specializing in **Zeolite Science and Engineering**. [cite: 15, 60, 62] [cite_start]Under the research theme **REACT (Rational Engineering of Active Catalytic Topologies)**, I develop atomically-precise catalytic materials to drive sustainable chemical production. [cite: 26]
+## Education & Career
 
-## 🎓 Education
-* [cite_start]**Integrated Master's-PhD Program** | UNIST | 2021 – Present [cite: 15]
-  * [cite_start]*Advisor: Prof. Ja Hun Kwak* [cite: 15]
-* [cite_start]**B.E. in Environmental Engineering** | Kyungpook National University | 2014 – 2020 [cite: 17]
-* [cite_start]**International Exchange Student** | VILNIUS TECH, Lithuania | 2018 [cite: 19]
+**2021 – Present** | Ph.D. Candidate (Integrated Master's–PhD Program)  
+Ulsan National Institute of Science and Technology (UNIST), School of Energy and Chemical Engineering  
+*Advisor: Prof. Ja Hun Kwak (Former Senior Scientist at PNNL)*  
+→ Passed dissertation proposal defense
 
-## 🔬 Research Focus
-* [cite_start]**Atomic-level Tuning:** Precision control of active sites (e.g., Al-siting, Ti-O-Ti dinuclear sites). [cite: 62, 78]
-* [cite_start]**Sustainable Processes:** $CO_2$ hydrogenation and Propylene epoxidation. [cite: 27, 40, 107]
-* [cite_start]**Functional Integration:** Single-framework tandem catalysis for one-pot synthesis. [cite: 111, 112]
+**2020 – 2021** | Intern Researcher  
+Korea Research Institute of Chemical Technology (KRICT), Daejeon  
+*Center for Environmental and Resource Research*  
+→ Catalyst development for LOHC dehydrogenation
 
-## 🏆 Selected Publications
-1. [cite_start]**Kwang Hyun Kim**, et al., "Self-driven propylene epoxidation on modified TS-1," ***Nature Communications***, 16 (1), 8636, (2025). [cite: 33]
-2. **Kwang Hyun Kim**, et al., "Direct production of propylene glycol from propylene using bifunctional Al-TS-1," ***Catalysis Today***, 464, (2025). [cite: 34]
+**2018 (Feb–Jun)** | International Exchange Student  
+Vilnius Gediminas Technical University (VILNIUS TECH), Lithuania
 
-[Download Full CV (PDF)](/files/CV_KwangHyunKim.pdf){: .btn .btn--info}
+**2015 – 2017** | Military Service, Sergeant (Mandatory Fire Service)  
+Mungyeong Fire Station, Gyeongsangbuk-do, South Korea
+
+**2014 – 2020** | B.S. in Environmental Engineering  
+Kyungpook National University (KNU), Daegu, South Korea
+
 ---
-**"Bridging fundamental catalytic science with practical energy solutions."** [cite: 28]
+
+## Awards & Honors
+
+**Outstanding Poster Award (Catalysis Division)** | Apr 2025  
+2025 KIChE Spring Meeting, Korean Institute of Chemical Engineers
+
+**Heart Saver Certification** | Jun 2017  
+Gyeongsangbuk-do Provincial Government — awarded for life-saving emergency medical response during mandatory fire service
