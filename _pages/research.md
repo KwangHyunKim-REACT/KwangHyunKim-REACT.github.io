@@ -1,18 +1,39 @@
 ---
-layout: archive
+layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-### REACT: Rational Engineering of Active Catalytic Topologies
+My research focuses on the precision engineering of heterogeneous catalysts to address energy and sustainability challenges. Three core themes define my work:
 
-[cite_start]My research integrates advanced zeolite engineering, molecular-level active site control, and in-depth spectroscopic characterization to drive sustainable chemical production. [cite: 27]
+---
 
-#### 1. Atomic-level Engineering of Zeolite Active Sites
-* **Dinuclear Ti Sites:** Developed modified TS-1 featuring structurally-defined Ti-O-Ti sites for enhanced stability in alkaline environments. [cite: 78, 176]
-* [cite_start]**Structure-Stability Correlations:** Demonstrated 2.5-fold increased activity at pH 11 through precision active site positioning. [cite: 107, 177]
+## 1. CO/CO₂ Hydrogenation to Value-Added Chemicals
 
-#### 2. Sustainable Catalysis & Carbon Circularity
-* [cite_start]**CO2 Hydrogenation:** Engineering hybrid catalyst platforms (e.g., Na/ZnFe2O4 + tailored zeolites) to break traditional scaling relations. [cite: 172, 187]
-* **Bifunctional Systems:** Developing Al-TS-1 for one-pot tandem synthesis, achieving over 95% Propylene Glycol selectivity. [cite: 112, 181]
+Engineered a hybrid catalyst platform (Na/ZnFe₂O₄ + tailored zeolites) to overcome traditional Schulz–Flory selectivity limitations, enabling non-ASF hydrocarbon product distributions.
+
+- Investigated zeolite topology and Al-siting effects on CO₂ hydrogenation selectivity
+- Collaborated with leading global chemical and steel industry partners
+- Manuscript submitted to *Chemical Engineering Journal* (2026)
+
+---
+
+## 2. Structural-Defined Active Sites for Stability
+
+Developed modified TS-1 zeolites with structurally-defined dinuclear Ti sites (Ti–O–Ti) to resist framework degradation at pH 11.
+
+- 2.5× increase in catalytic activity
+- 24-hour continuous operation demonstrated
+- Structural characterization via UV-Vis spectroscopy and XAS
+- Published in *Nature Communications* (2025)
+
+---
+
+## 3. Bifunctional Catalysts for Tandem Processes
+
+Designed Al-TS-1 bifunctional catalysts integrating Ti (epoxidation) and Al (hydrolysis) sites in a single MFI framework.
+
+- >95% Propylene Glycol selectivity in one-pot tandem process
+- Eliminated mass transfer limitations of physical mixtures
+- Published in *Catalysis Today* (2025)
