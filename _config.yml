@@ -8,15 +8,43 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "default"
+title                    : "Kwang Hyun Kim | REACT"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Kwang Hyun Kim"
+description              : &description "Ph.D. Candidate in Zeolite Engineering at UNIST"
+url                      : "https://KwangHyunKim-REACT.github.io" # 만약 ID를 바꾸셨다면 그에 맞게 수정하세요
+baseurl                  : ""
+repository               : "KwangHyunKim-REACT/KwangHyunKim-REACT.github.io"
+
+# Site Author
+author:
+  # Biographic information
+  avatar           : "profile.png" # images 폴더에 본인 사진을 profile.png로 올리시면 나옵니다.
+  name             : "Kwang Hyun Kim"
+  pronouns         : "He/Him"
+  bio              : "Rational Engineering of Active Catalytic Topologies (REACT)"
+  location         : "Ulsan, South Korea"
+  employer         : "UNIST"
+  uri              : 
+  email            : "rhkdgus131@unist.ac.kr"
+
+  # Academic websites
+  [cite_start]googlescholar    : "https://scholar.google.com/citations?user=YOUR_ID" # 구글 스칼라 ID를 넣어주세요 [cite: 12]
+  [cite_start]orcid            : "https://orcid.org/0009-0003-0532-2711" # [cite: 13]
+  researchgate     : 
+  
+  # Repositories and software development
+  github           : "KwangHyunKim-REACT"
+
+# Publication Category
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
