@@ -1,6 +1,5 @@
 # Basic Site Settings
 locale: "en-US"
-remote_theme: "mmistakes/minimal-mistakes"
 title: "Kwang Hyun Kim | REACT"
 title_separator: "-"
 name: &name "Kwang Hyun Kim"
