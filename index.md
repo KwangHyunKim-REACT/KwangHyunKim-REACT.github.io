@@ -13,8 +13,7 @@ I am **Kwang Hyun Kim**, a Ph.D. Candidate at **UNIST**, School of Energy and Ch
 
 ---
 
-{% include figure image_path="/images/research_summary.png" alt="Research Summary" caption="Overview of REACT research themes." %}
-
+![Research Summary](/images/research_summary.png)
 ---
 
 ## Research Themes
