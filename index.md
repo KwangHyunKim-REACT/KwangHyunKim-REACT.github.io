@@ -31,7 +31,7 @@ Al-TS-1 achieving >95% propylene glycol selectivity *(Catal. Today, 2025)*.
 
 ## Selected Publications
 
-- **K.H. Kim** et al., *Chem. Eng. J.*, Submitted (2026)
+- **K.H. Kim** et al., *_____________________*, Submitted (2026)
 - **K.H. Kim** et al., *Nature Communications*, 16, 8636 (2025)
 - **K.H. Kim** et al., *Catalysis Today*, 464 (2025)
 
