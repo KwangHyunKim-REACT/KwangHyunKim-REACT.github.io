@@ -1,23 +1,29 @@
 ---
 permalink: /
-title: "REACT: Rational Engineering of Active Catalytic Topologies"
+title: "Kwang Hyun Kim"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Welcome to My Research Lab
+# About Me
+[cite_start]I am a Ph.D. candidate at **UNIST**, specializing in **Zeolite Science and Engineering**. [cite: 15, 60, 62] [cite_start]Under the research theme **REACT (Rational Engineering of Active Catalytic Topologies)**, I develop atomically-precise catalytic materials to drive sustainable chemical production. [cite: 26]
 
-[cite_start]I am **Kwang Hyun Kim**, a Ph.D. candidate at UNIST specialized in **Zeolite Science and Engineering**. [cite: 15, 60, 62] [cite_start]My mission is to develop atomically-precise catalytic materials and innovative process concepts to drive sustainable chemical production and carbon circularity. [cite: 26]
+## 🎓 Education
+* [cite_start]**Integrated Master's-PhD Program** | UNIST | 2021 – Present [cite: 15]
+  * [cite_start]*Advisor: Prof. Ja Hun Kwak* [cite: 15]
+* [cite_start]**B.E. in Environmental Engineering** | Kyungpook National University | 2014 – 2020 [cite: 17]
+* [cite_start]**International Exchange Student** | VILNIUS TECH, Lithuania | 2018 [cite: 19]
 
-### 🔬 Research Identity: REACT
-[cite_start]My research integrates advanced zeolite engineering, molecular-level active site control, and in-depth spectroscopic characterization. [cite: 27] [cite_start]I aim to transform challenging feedstocks like $CO_{2}$ and plastic waste into renewable fuels and high-value chemicals. [cite: 27]
+## 🔬 Research Focus
+* [cite_start]**Atomic-level Tuning:** Precision control of active sites (e.g., Al-siting, Ti-O-Ti dinuclear sites). [cite: 62, 78]
+* [cite_start]**Sustainable Processes:** $CO_2$ hydrogenation and Propylene epoxidation. [cite: 27, 40, 107]
+* [cite_start]**Functional Integration:** Single-framework tandem catalysis for one-pot synthesis. [cite: 111, 112]
 
-### 🌟 Key Expertise
-* [cite_start]**Atomic-level Tuning:** Precision control of active site distribution within zeolite frameworks. [cite: 62, 78]
-* [cite_start]**Structure-Guided Design:** Correlating framework dimensionality (1D to 3D) with catalytic performance. [cite: 148, 149]
-* [cite_start]**Tandem Catalysis:** Integrating multiple functionalities (e.g., Ti and Al) into a single framework for one-pot synthesis. [cite: 111, 112]
+## 🏆 Selected Publications
+1. [cite_start]**Kwang Hyun Kim**, et al., "Self-driven propylene epoxidation on modified TS-1," ***Nature Communications***, 16 (1), 8636, (2025). [cite: 33]
+2. **Kwang Hyun Kim**, et al., "Direct production of propylene glycol from propylene using bifunctional Al-TS-1," ***Catalysis Today***, 464, (2025). [cite: 34]
 
 ---
-> [cite_start]"I am committed to bridging fundamental catalytic science with practical energy storage solutions to maximize environmental and societal impact." [cite: 28]
+**"Bridging fundamental catalytic science with practical energy solutions."** [cite: 28]
