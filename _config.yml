@@ -7,11 +7,7 @@ description: &description "Ph.D. Candidate in Zeolite Engineering at UNIST"
 url: "https://kwanghyunkim-react.github.io"
 baseurl: ""
 repository: "KwangHyunKim-REACT/KwangHyunKim-REACT.github.io"
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
-  - jekyll-feed
-  - jekyll-sitemap
+theme: academicpages
 
 # Site Author
 author:
