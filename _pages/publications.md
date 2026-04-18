@@ -7,7 +7,7 @@ author_profile: true
 
 ## First-Authored
 
-1. **Kwang Hyun Kim** et al., "Effects of Zeolite Topology and Acid Site Distribution on CO₂ Hydrogenation," ***Chemical Engineering Journal***, Submitted (2026).
+1. **Kwang Hyun Kim** et al., "Effects of Zeolite Topology and Acid Site Distribution on CO₂ Hydrogenation," ***                ***, Submitted (2026).
 
 2. **Kwang Hyun Kim**, SW Hwang, T Kim, H Kim, M Ko, SS Yoon, et al., "Self-driven propylene epoxidation on modified titanium silicalite-1 by in situ generated hydrogen peroxide," ***Nature Communications***, 16(1), 8636 (2025).
 
