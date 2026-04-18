@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # About Me
-[cite_start]I am a Ph.D. candidate at **UNIST**, specializing in **Zeolite Science and Engineering**. [cite: 15, 60, 62] [cite_start]Under the research theme **REACT (Rational Engineering of Active Catalytic Topologies)**, I develop atomically-precise catalytic materials to drive sustainable chemical production. [cite: 26]
+I am a Ph.D. candidate at **UNIST**, specializing in **Zeolite Science and Engineering**. [cite: 15, 60, 62] [cite_start]Under the research theme **REACT (Rational Engineering of Active Catalytic Topologies)**, I develop atomically-precise catalytic materials to drive sustainable chemical production. [cite: 26]
 
 ## 🎓 Education
 * [cite_start]**Integrated Master's-PhD Program** | UNIST | 2021 – Present [cite: 15]
