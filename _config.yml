@@ -5,8 +5,8 @@ title                    : "Kwang Hyun Kim | REACT"
 title_separator          : "-"
 name                     : &name "Kwang Hyun Kim"
 description              : &description "Ph.D. Candidate in Zeolite Engineering at UNIST"
-url                      : "https://kwanghyunkim-react.github.io"
-baseurl                  : "" # 반드시 비워두세요
+url                      : "https://kwanghyunkim-react.github.io" # 따옴표 안에 주소를 정확히 넣으세요
+baseurl                  : "" # <--- 이 안을 절대 채우지 말고 빈 상태로 두세요!
 repository               : "KwangHyunKim-REACT/KwangHyunKim-REACT.github.io"
 
 # Site Author
