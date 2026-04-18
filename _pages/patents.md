@@ -1,12 +1,13 @@
 ---
-layout: archive
+layout: single
 title: "Patents"
 permalink: /patents/
 author_profile: true
 ---
 
-### International & Domestic Patents
+## Patent Applications
 
-1. **A METHOD FOR HYDROLYSIS OF TRIPROPYLENE GLYCOL CATALYST FOR SELECTIVE EPOXIDATION AND METHOD FOR PREPARING THE SAME**
-   * Kwang Hyun Kim, Ja Hun Kwak, et al.
-   * [KR Patent Application No. 10-2024-XXXXXXX]
+**Kwang Hyun Kim**, Ja Hun Kwak, et al.,  
+"**A Method for Hydrolysis of Tripropylene Glycol Using Beta-Zeolite**"  
+*Korean Patent Application No. 10-2026-0068984*  
+Filed: April 16, 2026
