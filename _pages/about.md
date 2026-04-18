@@ -1,5 +1,6 @@
 ---
-permalink: /
+layout: archieve
+permalink: /about/
 title: "Kwang Hyun Kim"
 author_profile: true
 redirect_from: 
