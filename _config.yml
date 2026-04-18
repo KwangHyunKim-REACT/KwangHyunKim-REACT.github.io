@@ -1,28 +1,28 @@
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default"
-title                    : "Kwang Hyun Kim | REACT"
-title_separator          : "-"
-name                     : &name "Kwang Hyun Kim"
-description              : &description "Ph.D. Candidate in Zeolite Engineering at UNIST"
-url                      : "https://kwanghyunkim-react.github.io" # 따옴표 안에 주소를 정확히 넣으세요
-baseurl                  : "" # <--- 이 안을 절대 채우지 말고 빈 상태로 두세요!
-repository               : "KwangHyunKim-REACT/KwangHyunKim-REACT.github.io"
+locale: "en-US"
+site_theme: "default"
+title: "Kwang Hyun Kim | REACT"
+title_separator: "-"
+name: &name "Kwang Hyun Kim"
+description: &description "Ph.D. Candidate in Zeolite Engineering at UNIST"
+url: "https://kwanghyunkim-react.github.io"
+baseurl: ""
+repository: "KwangHyunKim-REACT/KwangHyunKim-REACT.github.io"
 
 # Site Author
 author:
-  avatar           : "profile.png"
-  name             : "Kwang Hyun Kim"
-  pronouns         : "He/Him"
-  bio              : "Rational Engineering of Active Catalytic Topologies (REACT)"
-  location         : "Ulsan, South Korea"
-  employer         : "UNIST"
-  email            : "rhkdgus131@unist.ac.kr"
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "https://orcid.org/0009-0003-0532-2711"
-  github           : "KwangHyunKim-REACT"
+  avatar: "profile.png"
+  name: "Kwang Hyun Kim"
+  pronouns: "He/Him"
+  bio: "Rational Engineering of Active Catalytic Topologies (REACT)"
+  location: "Ulsan, South Korea"
+  employer: "UNIST"
+  email: "rhkdgus131@unist.ac.kr"
+  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  orcid: "https://orcid.org/0009-0003-0532-2711"
+  github: "KwangHyunKim-REACT"
 
-# Defaults for collections (이 부분이 없으면 페이지 인식을 못 할 수 있습니다)
+# Defaults
 defaults:
   - scope:
       path: ""
