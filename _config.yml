@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale: "en-US"
-site_theme: "default"
+remote_theme: "mmistakes/minimal-mistakes"
 title: "Kwang Hyun Kim | REACT"
 title_separator: "-"
 name: &name "Kwang Hyun Kim"
@@ -8,6 +8,11 @@ description: &description "Ph.D. Candidate in Zeolite Engineering at UNIST"
 url: "https://kwanghyunkim-react.github.io"
 baseurl: ""
 repository: "KwangHyunKim-REACT/KwangHyunKim-REACT.github.io"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
 
 # Site Author
 author:
