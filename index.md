@@ -7,7 +7,7 @@ permalink: /
 
 ## Rational Engineering of Active Catalytic Topologies
 
-I am **Kwang Hyun Kim**, a Ph.D. Candidate at **UNIST**, School of Energy and Chemical Engineering. My research focuses on precision engineering of heterogeneous catalytic materials for energy and sustainability challenges.
+I am **Kwang Hyun Kim**, a Ph.D. Candidate at **UNIST**, School of Energy and Chemical Engineering. My research focuses on precision engineering of heterogeneous catalytic materials for global energy and sustainability challenges.
 
 ---
 
@@ -19,20 +19,21 @@ I am **Kwang Hyun Kim**, a Ph.D. Candidate at **UNIST**, School of Energy and Ch
 ## Research Themes
 
 **1. CO/CO₂ Hydrogenation**  
-Hybrid Na/ZnFe₂O₄ + zeolite catalysts for non-Schulz–Flory hydrocarbon selectivity.
+Na/ZnFe₂O₄ and zeolite hybrid catalysts for non-Schulz–Flory hydrocarbon selectivity *(ACS Catalysis, 2024)*.
 
 **2. Structural-Defined Active Sites**  
-Modified TS-1 with dinuclear Ti–O–Ti sites — 2.5× activity, 24h stability *(Nat. Commun., 2025)*.
+Modified Titanium Silicalite-1 (TS-1) zeolite with dinuclear Ti–O–Ti sites — 2.5× activity, 24h stability *(Nat. Commun., 2025)*.
 
 **3. Bifunctional Tandem Catalysis**  
-Al-TS-1 achieving >95% propylene glycol selectivity *(Catal. Today, 2025)*.
+Bifunctional Al-TS-1 zeolite (Al site for hydrolysis & Ti site for epoxidation) achieving >95% propylene glycol selectivity *(Catal. Today, 2025)*.
 
 ---
 
 ## Selected Publications
 
-- **K.H. Kim** et al., *_____________________*, Submitted (2026)
+- **K.H. Kim** et al., Preparing for Submission (2026)
 - **K.H. Kim** et al., *Nature Communications*, 16, 8636 (2025)
 - **K.H. Kim** et al., *Catalysis Today*, 464 (2025)
+- **K.H. Kim** et al., *ACS Catalysis*, 14 (2024)
 
 [→ Full publication list](/publications/)
