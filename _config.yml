@@ -19,9 +19,9 @@ plugins:
 # Site Author
 author:
   avatar: "profile.png"
-  name: "Kwang Hyun Kim
-  김광현
-  金洸賢"
+  name: "Kwang Hyun Kim"
+  name: "김광현"
+  name: "金洸賢"
   pronouns: "He/Him"
   bio: "Rational Engineering of Active Catalytic Topologies (REACT)"
   location: "Ulsan, South Korea"
