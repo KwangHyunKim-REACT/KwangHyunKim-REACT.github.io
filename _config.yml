@@ -3,7 +3,7 @@ locale: "en-US"
 title: "Kwang Hyun Kim | REACT"
 title_separator: "-"
 name: &name "Kwang Hyun Kim"
-description: &description "Ph.D. Candidate in Zeolite Engineering at UNIST"
+description: &description "Ph.D. Candidate in Zeolite Catalyst Engineering at UNIST"
 url: "https://kwanghyunkim-react.github.io"
 baseurl: ""
 repository: "KwangHyunKim-REACT/KwangHyunKim-REACT.github.io"
@@ -19,7 +19,7 @@ plugins:
 # Site Author
 author:
   avatar: "profile.png"
-  name: "Kwang Hyun Kim"
+  name: "Kwang Hyun Kim, 김광현, 金洸賢"
   pronouns: "He/Him"
   bio: "Rational Engineering of Active Catalytic Topologies (REACT)"
   location: "Ulsan, South Korea"
