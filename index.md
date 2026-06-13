@@ -22,7 +22,7 @@ I am **Kwang Hyun Kim**, a Ph.D. Candidate at **UNIST**, School of Energy and Ch
 Na/ZnFe₂O₄ and zeolite hybrid catalysts for non-Schulz–Flory hydrocarbon selectivity *(ACS Catalysis, 2024)*.
 
 **2. Structural-Defined Active Sites**  
-Modified Titanium Silicalite-1 (TS-1) zeolite with dinuclear Ti–O–Ti sites — 2.5× activity, 24h stability *(Nat. Commun., 2025)*.
+Modified Titanium Silicalite-1 (TS-1) zeolite with dinuclear Ti–O–Ti sites for self-driven propylene epoxidation system combined with in situ generated H2O2 *(Nat. Commun., 2025)*.
 
 **3. Bifunctional Tandem Catalysis**  
 Bifunctional Al-TS-1 zeolite (Al site for hydrolysis & Ti site for epoxidation) achieving >95% propylene glycol selectivity *(Catal. Today, 2025)*.
