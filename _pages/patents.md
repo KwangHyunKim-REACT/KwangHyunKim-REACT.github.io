@@ -12,18 +12,18 @@ author_profile: true
 *Korean Patent Application No. 10-2026-0068984*  
 Filed: April 16, 2026
 
+---
+
+
+
+
+---
 
 
 
 
 
-
-
-
-
-
-
-
+---
 
 
 
